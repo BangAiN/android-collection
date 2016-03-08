@@ -48,6 +48,7 @@
 * 一款遵循MD设计原则的新闻APP https://github.com/nickbutcher/plaid
 * Implementation of Instagram(IG) with Material Design https://github.com/frogermcs/InstaMaterial
 * SpinnerLoader https://github.com/fenjuly/SpinnerLoader
+* Android Material Design Theme UI and Tool Library   https://github.com/qiujuer/Genius-Android
 
 ###Demo
 * 500px引导动画 https://github.com/hanks-zyh/500px-guideview
