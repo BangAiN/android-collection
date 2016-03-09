@@ -122,6 +122,7 @@ https://github.com/mikepenz/MaterialDrawer
 
 ###对话框
 * Material Dialogs 高度定制已用，符合MD风格的Dialog，兼容API8 https://github.com/afollestad/material-dialogs
+* sweet-alert-dialog Android版的SweetAlert，清新文艺，灵感来源于JS版SweetAlert  https://github.com/pedant/sweet-alert-dialog
 
 ###沉浸式状态栏
 * https://github.com/jgilfelt/SystemBarTint
@@ -137,9 +138,6 @@ https://github.com/mikepenz/MaterialDrawer
 * https://github.com/daimajia/NumberProgressBar
 * https://github.com/lzyzsd/CircleProgress
 * https://github.com/castorflex/SmoothProgressBar
-
-###Dialog
-* sweet-alert-dialog Android版的SweetAlert，清新文艺，灵感来源于JS版SweetAlert  https://github.com/pedant/sweet-alert-dialog
 
 ###Button
 * https://github.com/dmytrodanylyk/circular-progress-button
