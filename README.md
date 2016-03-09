@@ -125,6 +125,7 @@
 * https://github.com/JorgeCastilloPrz/FABProgressCircle
 
 ###图表
+* 一款强大的Android图表库 https://github.com/PhilJay/MPAndroidChart
 * https://github.com/xcltapestry/XCL-Charts
 
 ###别人整理
