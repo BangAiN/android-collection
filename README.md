@@ -8,6 +8,10 @@
 * Implementation of ImageView for Android that supports zooming, by various touch gestures. https://github.com/chrisbanes/PhotoView
 * https://github.com/jdamcd/android-crop
 * https://github.com/donglua/PhotoPicker
+* 图片未选择中部分设置模糊效果 https://github.com/yulu/crop-image-layout
+
+###Clean Architecture
+* Rosie is an Android framework to create applications following the principles of Clean Architecture. https://github.com/Karumi/Rosie
 
 ###RecylerView相关
 * 分隔线：可以通过设置左右Margin...RecyclerView-FlexibleDivider https://github.com/yqritc/RecyclerView-FlexibleDivider
@@ -56,6 +60,8 @@
 * Implementation of Instagram(IG) with Material Design https://github.com/frogermcs/InstaMaterial
 * SpinnerLoader https://github.com/fenjuly/SpinnerLoader
 * Android Material Design Theme UI and Tool Library   https://github.com/qiujuer/Genius-Android
+* 豆芽 开源的 Material Design 豆瓣客户端 https://github.com/DreaminginCodeZH/Douya
+* 一款相当赞的集成Material Design 发展趋势效果的APP https://github.com/byoutline/kickmaterial
 
 ###Demo
 * 500px引导动画 https://github.com/hanks-zyh/500px-guideview
@@ -65,9 +71,15 @@
 * 仿nice图片添加tag https://github.com/saiwu-bigkoo/Android-PictureTagView
 * 使用MVP架构的项目 https://github.com/android10/Android-CleanArchitecture
 
+###广告条
+* a vertical banner view in android.you can find it in 淘宝app、京东app... https://github.com/Rowandjj/VerticalBannerView
+
 ###引导页
 * AppIntro 快速搭建漂亮炫酷的引导页库 https://github.com/PaoloRotolo/AppIntro
 * slidingtutorial-android https://github.com/Cleveroad/slidingtutorial-android
+
+###冷启动加速
+* https://github.com/DreaminginCodeZH/MaterialColdStart
 
 ###用户指导
 * ShowcaseView 适合对用户进行第一次使用进行指导的库，简单可自定义样式 https://github.com/amlcurran/ShowcaseView
@@ -134,11 +146,17 @@ https://github.com/mikepenz/MaterialDrawer
 ###React Nativie
 * https://github.com/facebook/react-native
 * https://github.com/vczero/react-native-lesson
+* Uber出品 React图表库 https://github.com/uber-common/react-vis
 
 ###ProgressBar
 * https://github.com/daimajia/NumberProgressBar
 * https://github.com/lzyzsd/CircleProgress
 * https://github.com/castorflex/SmoothProgressBar
+* 可定制的ProgressBar，实现QQ健康步数显示和仪表盘的效果 https://github.com/Shinelw/ColorArcProgressBar
+
+###SwipeCard卡片式切换
+* https://github.com/Diolor/Swipecards
+* https://github.com/xiepeijie/SwipeCardView
 
 ###Button
 * https://github.com/dmytrodanylyk/circular-progress-button
@@ -147,6 +165,7 @@ https://github.com/mikepenz/MaterialDrawer
 ###插件化开发
 * 360黑科技 https://github.com/Qihoo360/DroidPlugin
 * https://github.com/singwhatiwanna/dynamic-load-apk
+
 ###IOC
 * AA https://github.com/excilys/androidannotations
 * Dagger https://github.com/square/dagger
@@ -191,6 +210,9 @@ https://github.com/mikepenz/MaterialDrawer
 
 ###数据库
 * Realm Java 一个轻量的Android数据存储库，比原生的SQLite更加简洁快速
+
+###git
+* https://github.com/AntBranch/awesome-github
 
 ###别人整理
 * android-libraries https://github.com/wasabeef/awesome-android-libraries
