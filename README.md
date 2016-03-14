@@ -67,6 +67,7 @@
 
 ###引导页
 * AppIntro 快速搭建漂亮炫酷的引导页库 https://github.com/PaoloRotolo/AppIntro
+* slidingtutorial-android https://github.com/Cleveroad/slidingtutorial-android
 
 ###用户指导
 * ShowcaseView 适合对用户进行第一次使用进行指导的库，简单可自定义样式 https://github.com/amlcurran/ShowcaseView
