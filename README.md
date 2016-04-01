@@ -43,6 +43,14 @@
 ###上滑覆盖，可设置手动滑动或自动滑动，回调相应方法
 * https://github.com/umano/AndroidSlidingUpPanel
 
+###混淆 资源Id混淆
+* https://github.com/shwenzhang/AndResGuard 微信团队
+* http://tech.meituan.com/mt-android-resource-obfuscation.html 美团技术博客 资源ID混淆原理
+* https://www.guardsquare.com/dexguard DexGuard
+
+###图片压缩
+https://github.com/google/zopfli Zopfli-compressed PNGs
+* https://github.com/imagemin/zopflipng-bin  Zopfli-compressed PNGs使用方式
 ###架构
 * MVP
   * MVP Example ：https://github.com/antoniolg/androidmvp 
