@@ -233,6 +233,7 @@ https://github.com/mikepenz/MaterialDrawer
 * 曲线绘制及根据绘制曲线查看运动效果 http://cubic-bezier.com/#.17,.67,.83,.67
 * 实现30种缓动函数插值器 https://github.com/cimi-chen/EaseInterpolator
 * ValueAnimator原理 http://hujiaweibujidao.github.io/blog/2016/05/26/when-math-meets-android-animation/
+* 代码家 TypeEvaluatorAnimationEasingFunctions https://github.com/daimajia/AnimationEasingFunctions
 
 
 
